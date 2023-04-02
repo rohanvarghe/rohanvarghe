@@ -5,7 +5,7 @@
 - <b>Sales Data Analysis </b>
   - [Sales Data Analysis](https://github.com/rohanvarghe/Sales-Data-Analysis)
 - <b>Bike Sales Data Analysis</b>
-  - (https://github.com/rohanvarghe/Bike-Sales-Data-Analysis) <b><i>(Potentially NSFW)</b></i>
+  -  [Bike Sles Data Analysis](https://github.com/rohanvarghe/Bike-Sales-Data-Analysis)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
