@@ -6,7 +6,7 @@
   - [Sales Data Analysis](https://github.com/rohanvarghe/Sales-Data-Analysis)
 - <b>Bike Sales Data Analysis</b>
   -  [Bike Sles Data Analysis](https://github.com/rohanvarghe/Bike-Sales-Data-Analysis)
-- <b>PowerShell</b>
+- <b>SQL and Tableau</b>
   - [Employee_Data Analysis_SQL and Tableau](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
